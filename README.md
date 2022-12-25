@@ -46,4 +46,11 @@ https://numpy.org/doc/stable/reference/random/generator.html#distributions
 
 ### Topic 3 : Bias
 
+This section of the module focused on two different forms of bias: Cognitive and Statistical.
+My exercises for the Bias section of the module are contained in the same Jupyter Notebook: 03-bias-exercises.
+
+Exercise 1 : "Give three real-world examples of cognitive bias"
+
 #### *References:* 
+https://positivepsychology.com/cognitive-biases/
+Kahneman, Daniel. Thinking Fast and Slow Penguin Books, 2011
