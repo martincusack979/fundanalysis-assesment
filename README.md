@@ -5,11 +5,7 @@ by Martin Cusack (I.D: G00239124)
 ### Introduction
 
 This repository contains all work completed during the course of the Fundamentals of Data Analysis module.
-The repository contains Jupyter Notebooks files, a gitignore file and a ReadMe file.
-
-### Set Up
-
-All exercises were completed in Jupyter notebooks.  
+The repository contains Jupyter Notebooks files, a .gitignore file and a ReadMe file.
 
 ### Topic 1 : Information 
 
