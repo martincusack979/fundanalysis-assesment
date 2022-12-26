@@ -1,15 +1,11 @@
-## Assessment: Fundamentals of Data Analysis
+# Assessment: Fundamentals of Data Analysis
 
 by Martin Cusack (I.D: G00239124)
 
 ### Introduction
 
 This repository contains all work completed during the course of the Fundamentals of Data Analysis module.
-The repository contains Jupyter Notebooks files, a gitignore file and a ReadMe file.
-
-### Set Up
-
-All exercises were completed in Jupyter notebooks.  
+The repository contains Jupyter Notebooks files, a .gitignore file and a ReadMe file.
 
 ### Topic 1 : Information 
 
@@ -46,4 +42,11 @@ https://numpy.org/doc/stable/reference/random/generator.html#distributions
 
 ### Topic 3 : Bias
 
+This section of the module focused on two different forms of bias: Cognitive and Statistical.
+My exercises for the Bias section of the module are contained in the same Jupyter Notebook: 03-bias-exercises.
+
+Exercise 1 : "Give three real-world examples of cognitive bias"
+
 #### *References:* 
+https://positivepsychology.com/cognitive-biases/
+Kahneman, Daniel. Thinking Fast and Slow Penguin Books, 2011
