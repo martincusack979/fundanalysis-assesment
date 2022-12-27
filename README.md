@@ -43,10 +43,22 @@ https://numpy.org/doc/stable/reference/random/generator.html#distributions
 ### Topic 3 : Bias
 
 This section of the module focused on two different forms of bias: Cognitive and Statistical.
-My exercises for the Bias section of the module are contained in the same Jupyter Notebook: 03-bias-exercises.
+My exercises for the Bias section of the module are contained in the following Jupyter Notebook: 03-bias-exercises.
 
 Exercise 1 : "Give three real-world examples of cognitive bias"
 
 #### *References:* 
 https://positivepsychology.com/cognitive-biases/
 Kahneman, Daniel. Thinking Fast and Slow Penguin Books, 2011
+
+Exercise 2 : Calculate the standard deviations of the following two lists of numbers from earlier in the lecture.
+
+Exercise 3 : Show that the difference between the standard deviation calculations is greatest for small sample sizes.
+
+#### *References:*
+https://www.statisticshowto.com/bessels-correction/
+Warne, T. (2017). Statistics for the Social Sciences: A General Linear Model Approach. Cambridge University press.
+
+### Topic 4 : Outliers
+
+This section of the module...
