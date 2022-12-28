@@ -65,10 +65,8 @@ This section of the module covered box plots and statistical analysis.
 
 Exercise 1 : Create box plots on a single set of axes for all five experiments in the morley data set.
 
-Exercise 2 :
+Exercise 2 : Create box plots for all of the numerical variables in Fisher's Iris Data Set.
 
-Exercise 3 : 
+Exercise 3 : Adapt above code & plots so that the overall plot is inversely propertional and individual groups are directly proportional.
 
-Exercise 1 : Create box plots on a single set of axes for all five experiments in the morley data set.
 
-This section of the module...
