@@ -61,4 +61,14 @@ Warne, T. (2017). Statistics for the Social Sciences: A General Linear Model App
 
 ### Topic 4 : Outliers
 
+This section of the module covered box plots and statistical analysis.
+
+Exercise 1 : Create box plots on a single set of axes for all five experiments in the morley data set.
+
+Exercise 2 :
+
+Exercise 3 : 
+
+Exercise 1 : Create box plots on a single set of axes for all five experiments in the morley data set.
+
 This section of the module...
