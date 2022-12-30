@@ -59,7 +59,7 @@ Exercise 3 : Show that the difference between the standard deviation calculation
 #### *References:*
 https://www.statisticshowto.com/bessels-correction/
 
-Warne, T. (2017). Statistics for the Social Sciences: A General Linear Model Approach. Cambridge University press.
+Warne, T. (2017). *Statistics for the Social Sciences: A General Linear Model Approach.* Cambridge University press.
 
 ### Topic 4 : Outliers
 
