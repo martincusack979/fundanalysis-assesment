@@ -49,6 +49,7 @@ Exercise 1 : "Give three real-world examples of cognitive bias"
 
 #### *References:* 
 https://positivepsychology.com/cognitive-biases/
+
 Kahneman, Daniel. Thinking Fast and Slow Penguin Books, 2011
 
 Exercise 2 : Calculate the standard deviations of the following two lists of numbers from earlier in the lecture.
@@ -57,6 +58,7 @@ Exercise 3 : Show that the difference between the standard deviation calculation
 
 #### *References:*
 https://www.statisticshowto.com/bessels-correction/
+
 Warne, T. (2017). Statistics for the Social Sciences: A General Linear Model Approach. Cambridge University press.
 
 ### Topic 4 : Outliers
