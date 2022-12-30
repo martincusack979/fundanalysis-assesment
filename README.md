@@ -36,8 +36,11 @@ link: https://numpy.org/doc/stable/reference/random/generator.html#distributions
 
 #### *References:*  
 https://www.w3schools.com/python/numpy/numpy_random_binomial.asp
+
 https://numpy.org/doc/stable/reference/random/index.html
+
 https://www.geeksforgeeks.org/coin-toss-probability-formula/
+
 https://numpy.org/doc/stable/reference/random/generator.html#distributions
 
 ### Topic 3 : Bias
@@ -57,6 +60,7 @@ Exercise 2 : Calculate the standard deviations of the following two lists of num
 Exercise 3 : Show that the difference between the standard deviation calculations is greatest for small sample sizes.
 
 #### *References:*
+
 https://www.statisticshowto.com/bessels-correction/
 
 Warne, T. (2017). *Statistics for the Social Sciences: A General Linear Model Approach.* Cambridge University press.
@@ -72,8 +76,11 @@ Exercise 2 : Create box plots for all of the numerical variables in Fisher's Iri
 Exercise 3 : Adapt above code & plots so that the overall plot is inversely propertional and individual groups are directly proportional.
 
 #### *References:*
+
 https://www.kaggle.com/datasets/uciml/iris
+
 https://www.kaggle.com/code/ukveteran/pystarter-jma-morley/data
+
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html
 
 ### Topic 5 : Cleansing
