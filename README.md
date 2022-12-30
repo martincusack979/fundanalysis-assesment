@@ -36,8 +36,11 @@ link: https://numpy.org/doc/stable/reference/random/generator.html#distributions
 
 #### *References:*  
 https://www.w3schools.com/python/numpy/numpy_random_binomial.asp
+
 https://numpy.org/doc/stable/reference/random/index.html
+
 https://www.geeksforgeeks.org/coin-toss-probability-formula/
+
 https://numpy.org/doc/stable/reference/random/generator.html#distributions
 
 ### Topic 3 : Bias
@@ -49,24 +52,44 @@ Exercise 1 : "Give three real-world examples of cognitive bias"
 
 #### *References:* 
 https://positivepsychology.com/cognitive-biases/
-Kahneman, Daniel. Thinking Fast and Slow Penguin Books, 2011
+
+Kahneman, Daniel. *Thinking Fast and Slow*. Penguin Books, 2011
 
 Exercise 2 : Calculate the standard deviations of the following two lists of numbers from earlier in the lecture.
 
 Exercise 3 : Show that the difference between the standard deviation calculations is greatest for small sample sizes.
 
 #### *References:*
+
 https://www.statisticshowto.com/bessels-correction/
-Warne, T. (2017). Statistics for the Social Sciences: A General Linear Model Approach. Cambridge University press.
+
+Warne, T. (2017). *Statistics for the Social Sciences: A General Linear Model Approach.* Cambridge University press.
 
 ### Topic 4 : Outliers
 
 This section of the module covered box plots and statistical analysis.
 
-Exercise 1 : Create box plots on a single set of axes for all five experiments in the morley data set.
+Exercise 1 : Create box plots on a single set of axes for all five experiments in the Morley data set.
 
 Exercise 2 : Create box plots for all of the numerical variables in Fisher's Iris Data Set.
 
 Exercise 3 : Adapt above code & plots so that the overall plot is inversely propertional and individual groups are directly proportional.
 
+#### *References:*
+
+https://www.kaggle.com/datasets/uciml/iris
+
+https://www.kaggle.com/code/ukveteran/pystarter-jma-morley/data
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html
+
+### Topic 5 : Cleansing
+
+This section of the module focused on regular expressions and data cleansing.
+
+Exercise 1 : 
+
+Exercise 2 : 
+
+#### *References:*
 
