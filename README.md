@@ -50,7 +50,7 @@ Exercise 1 : "Give three real-world examples of cognitive bias"
 #### *References:* 
 https://positivepsychology.com/cognitive-biases/
 
-Kahneman, Daniel. Thinking Fast and Slow Penguin Books, 2011
+Kahneman, Daniel. **Thinking Fast and Slow**. Penguin Books, 2011
 
 Exercise 2 : Calculate the standard deviations of the following two lists of numbers from earlier in the lecture.
 
