@@ -74,6 +74,7 @@ Exercise 3 : Adapt above code & plots so that the overall plot is inversely prop
 #### *References:*
 https://www.kaggle.com/datasets/uciml/iris
 https://www.kaggle.com/code/ukveteran/pystarter-jma-morley/data
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html
 
 ### Topic 5 : Cleansing
 
