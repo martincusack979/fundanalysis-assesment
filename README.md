@@ -63,10 +63,23 @@ Warne, T. (2017). Statistics for the Social Sciences: A General Linear Model App
 
 This section of the module covered box plots and statistical analysis.
 
-Exercise 1 : Create box plots on a single set of axes for all five experiments in the morley data set.
+Exercise 1 : Create box plots on a single set of axes for all five experiments in the Morley data set.
 
 Exercise 2 : Create box plots for all of the numerical variables in Fisher's Iris Data Set.
 
 Exercise 3 : Adapt above code & plots so that the overall plot is inversely propertional and individual groups are directly proportional.
 
+#### *References:*
+https://www.kaggle.com/datasets/uciml/iris
+https://www.kaggle.com/code/ukveteran/pystarter-jma-morley/data
+
+### Topic 5 : Cleansing
+
+This section of the module focused on regular expressions and data cleansing.
+
+Exercise 1 : 
+
+Exercise 2 : 
+
+#### *References:*
 
