@@ -87,9 +87,14 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html
 
 This section of the module focused on regular expressions and data cleansing.
 
-Exercise 1 : 
+Exercise 1 : Write a Python function to remove all non-alphanumeric characters from a string
 
-Exercise 2 : 
+Exercise 2 : Adapt the above code to capitalise the first letter of the iris species, using regular expressions.
 
 #### *References:*
 
+https://developers.google.com/edu/python/regular-expressions
+
+https://realpython.com/regex-python/
+
+***
